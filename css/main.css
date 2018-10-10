@@ -7,6 +7,7 @@
 body {
 	background-color: #e8e8e8;
 	font-family: 'GloberRegular';
+	overflow-x: hidden;
 }
 
 a {
@@ -84,7 +85,31 @@ ul {
 }
 
 .home-link {
-	float: right;
+    position: absolute;
+    right: 5vw;
+    top: 5vh;
+}
+
+.home-link ul li {
+	float: left;
+    display: inline;
+}
+
+.link-site {
+	padding: 9px 20px 6px;
+	color: white;
+    font-size: 11px;
+    background: rgba(0,0,0,.9);
+    border-radius: 25px;
+}
+
+.link-svg svg {
+	width: 30px;
+    height: 30px;
+}
+
+.link-svg:nth-of-type(2) {
+	margin: 0 10px;
 }
 
 .home-bottom {
@@ -93,26 +118,46 @@ ul {
     bottom: 5vh;
 }
 
-.home-bottom .home-whatsapp {
+.home-whatsapp {
 	float: right;
-	right: 5vw;
+	margin-top: -70px;
+    margin-right: 5vw;
 }
 
-.home-bottom .home-more {
-	text-align: center;
+.home-whatsapp img {
+	width: 55px
 }
 
-.home-bottom .home-more .home-icon {
+.home-fale {
+    color: white;
+    font-size: 11px;
+    padding: 14px 30px 10px 20px;
+    background: rgba(0,0,0,.8);
+    border-radius: 25px;
+	letter-spacing: 2px;
+	float: left;
+    margin-top: 10px;
+    margin-right: -20px;
+}
+
+.home-more {
+    margin: 0 auto;
+    width: 134px;
+}
+
+.home-icon {
     width: 50px;
 	height: 50px;
-	float: left;
-	background-color: #6bd62b;
-	border-radius: 50%;    
-	line-height: 60px;
-	font-size: 22px;
+    margin: 0 auto 15px;
 }
 
-.home-bottom .home-more .home-saiba {
+.home-icon svg {
+	width: 100%;
+	height: 100%;
+}
+
+.home-saiba {
+	color: white;
 	font-size: 18px;
 	letter-spacing: 3px;
 	font-family: 'GloberSemiBold';
