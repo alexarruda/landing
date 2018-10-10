@@ -1,6 +1,12 @@
 * {
 	margin: 0;
 	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #e8e8e8;
+	font-family: 'GloberRegular';
 }
 
 a {
@@ -24,4 +30,102 @@ ul {
 
 .home {
 	height: 100vh;
+	width: 100vw;
+	background-image: url(../img/home-bg.jpg);
+	background-size: cover;
+}
+
+.home-side {
+	position: relative;
+	height: 100vh;
+	width: 46vw;
+	float: left;
+}
+
+.home-side .side-unit {
+	width: 100%;
+	height: 40vh;
+	/* background-color: rgba(255, 255, 255, .7); */
+}
+
+.home-side .side-top {
+	text-align: right;
+	line-height: 50vh;
+}
+
+.home-side .side-top img {
+	width: 350px;
+	margin-right: 50px;
+}
+
+.home-side .side-half {
+	height: 20vh;
+	padding-top: 2vh;
+	color: #3a7b3b;
+	font-size: 36px;
+	text-align: right;
+}
+
+.home-side .side-half .half {
+	height: 7vh;
+	line-height: 8vh;
+	padding-right: 30px;
+	background-color: white;
+}
+
+.home-side .side-half .half-1 {
+	width: 100%;
+	margin-bottom: 2vh;
+}
+
+.home-side .side-half .half-2 {
+	width: calc(100% + 30px);
+	font-family: 'GloberBold';
+}
+
+.home-link {
+	float: right;
+}
+
+.home-bottom {
+	width: 100%;
+	position: absolute;
+    bottom: 5vh;
+}
+
+.home-bottom .home-whatsapp {
+	float: right;
+	right: 5vw;
+}
+
+.home-bottom .home-more {
+	text-align: center;
+}
+
+.home-bottom .home-more .home-icon {
+    width: 50px;
+	height: 50px;
+	float: left;
+	background-color: #6bd62b;
+	border-radius: 50%;    
+	line-height: 60px;
+	font-size: 22px;
+}
+
+.home-bottom .home-more .home-saiba {
+	font-size: 18px;
+	letter-spacing: 3px;
+	font-family: 'GloberSemiBold';
+}
+
+.premium {
+	width: 100vw;
+	height: 754px;
+	background-image: url(../img/premium.jpg);
+	background-size: cover;
+}
+
+.form {
+	width: 100vw;
+	height: 754px;
 }

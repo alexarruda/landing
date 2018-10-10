@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'GloberRegular';
+    src: url('fonts/GloberRegular.eot');
+    src: url('fonts/GloberRegular.eot') format('embedded-opentype'),
+         url('fonts/GloberRegular.woff2') format('woff2'),
+         url('fonts/GloberRegular.woff') format('woff'),
+         url('fonts/GloberRegular.ttf') format('truetype'),
+         url('fonts/GloberRegular.svg#GloberRegular') format('svg');
+}
+@font-face {
+    font-family: 'GloberSemiBold';
+    src: url('fonts/GloberSemiBold.eot');
+    src: url('fonts/GloberSemiBold.eot') format('embedded-opentype'),
+         url('fonts/GloberSemiBold.woff2') format('woff2'),
+         url('fonts/GloberSemiBold.woff') format('woff'),
+         url('fonts/GloberSemiBold.ttf') format('truetype'),
+         url('fonts/GloberSemiBold.svg#GloberSemiBold') format('svg');
+}
+@font-face {
+    font-family: 'GloberBold';
+    src: url('fonts/GloberBold.eot');
+    src: url('fonts/GloberBold.eot') format('embedded-opentype'),
+         url('fonts/GloberBold.woff2') format('woff2'),
+         url('fonts/GloberBold.woff') format('woff'),
+         url('fonts/GloberBold.ttf') format('truetype'),
+         url('fonts/GloberBold.svg#GloberBold') format('svg');
+}
+
