@@ -33,7 +33,7 @@
 						<path d="M32.549,24.826c0,4.257-3.464,7.723-7.723,7.723c-4.259,0-7.722-3.466-7.722-7.723c0-1.024,0.204-2.003,0.568-2.897     h-4.215v11.56c0,1.494,1.213,2.704,2.706,2.704h17.323c1.491,0,2.706-1.21,2.706-2.704v-11.56h-4.217     C32.342,22.823,32.549,23.802,32.549,24.826z" fill="#FFFFFF"/>
 					</svg>
 				</a></li>
-				<li class="link-site"><a href="#">Site Oficial</a></li>
+				<li class="link-site"><a href="http://agrobrazil.net.br/">Site Oficial</a></li>
 			</ul>
 		</div>
 
@@ -58,22 +58,86 @@
 	<section class="premium">
 		<div class="center">
 			<div class="premium-left">
-				
+				<h2 class="h2-titlepremium"><span>#</span>Seja<span>Premium</span></h2>
+				<div class="premium-content">
+					<p>Conecte-se aos principais pecuarista do Brasil.<br>
+					Baixe agora nosso APP e fique  por dentro de:</p>
+					<ul>
+						<li class="li-check"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 60.015 60.015" style="enable-background:new 0 0 60.015 60.015;" xml:space="preserve" width="512px" height="512px">
+							<path d="M59.136,7.372c-1.133-1.133-3.109-1.133-4.242,0L27,35.265L15.344,23.609c-1.133-1.133-3.109-1.133-4.242,0   c-0.566,0.566-0.879,1.32-0.879,2.121s0.313,1.555,0.879,2.121l13.777,13.777c0.566,0.566,1.32,0.879,2.121,0.879   s1.555-0.313,2.121-0.879l30.015-30.015c0.566-0.566,0.879-1.32,0.879-2.121S59.702,7.938,59.136,7.372z" fill="#08582c"/>
+							<path d="M27,45.007c-1.469,0-2.85-0.572-3.889-1.611L9.334,29.619c-1.039-1.039-1.611-2.42-1.611-3.889s0.572-2.85,1.611-3.889   c1.005-1.006,2.423-1.582,3.889-1.582s2.884,0.576,3.889,1.582L27,31.73l26-26V3.507H0v53h53V21.285L30.889,43.396   C29.85,44.435,28.469,45.007,27,45.007z" fill="#6bd62b"/>
+							</svg> Negócios realizados em tempo real;</li>
+						<li class="li-check"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 60.015 60.015" style="enable-background:new 0 0 60.015 60.015;" xml:space="preserve" width="512px" height="512px">
+							<path d="M59.136,7.372c-1.133-1.133-3.109-1.133-4.242,0L27,35.265L15.344,23.609c-1.133-1.133-3.109-1.133-4.242,0   c-0.566,0.566-0.879,1.32-0.879,2.121s0.313,1.555,0.879,2.121l13.777,13.777c0.566,0.566,1.32,0.879,2.121,0.879   s1.555-0.313,2.121-0.879l30.015-30.015c0.566-0.566,0.879-1.32,0.879-2.121S59.702,7.938,59.136,7.372z" fill="#08582c"/>
+							<path d="M27,45.007c-1.469,0-2.85-0.572-3.889-1.611L9.334,29.619c-1.039-1.039-1.611-2.42-1.611-3.889s0.572-2.85,1.611-3.889   c1.005-1.006,2.423-1.582,3.889-1.582s2.884,0.576,3.889,1.582L27,31.73l26-26V3.507H0v53h53V21.285L30.889,43.396   C29.85,44.435,28.469,45.007,27,45.007z" fill="#6bd62b"/>
+							</svg> Escalas frigorificas nacionais;</li>
+						<li class="li-check"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 60.015 60.015" style="enable-background:new 0 0 60.015 60.015;" xml:space="preserve" width="512px" height="512px">
+							<path d="M59.136,7.372c-1.133-1.133-3.109-1.133-4.242,0L27,35.265L15.344,23.609c-1.133-1.133-3.109-1.133-4.242,0   c-0.566,0.566-0.879,1.32-0.879,2.121s0.313,1.555,0.879,2.121l13.777,13.777c0.566,0.566,1.32,0.879,2.121,0.879   s1.555-0.313,2.121-0.879l30.015-30.015c0.566-0.566,0.879-1.32,0.879-2.121S59.702,7.938,59.136,7.372z" fill="#08582c"/>
+							<path d="M27,45.007c-1.469,0-2.85-0.572-3.889-1.611L9.334,29.619c-1.039-1.039-1.611-2.42-1.611-3.889s0.572-2.85,1.611-3.889   c1.005-1.006,2.423-1.582,3.889-1.582s2.884,0.576,3.889,1.582L27,31.73l26-26V3.507H0v53h53V21.285L30.889,43.396   C29.85,44.435,28.469,45.007,27,45.007z" fill="#6bd62b"/>
+							</svg> Dados do mercado futuro;</li>
+					</ul>
+					<span class="premium-line"></span>
+				</div>
+				<div class="premium-content-footer">
+					<p>Teste por <span>30 dias grátis*</span></p>
+					<div class="premium-icon">
+						<img src="img/apple-store.png" alt="Apple Store">
+						<img src="img/google-play.png" alt="Google Play">
+					</div>
+				</div>
 			</div>
 			<div class="premium-right">
-				
+				<iframe width="780" height="438.75" src="https://www.youtube.com/embed/ykgvYH7QZbY?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+			</div>
+			<div class="premium-footer">
+				<span class="premium-line-footer premium-line-footer1"></span>
+				<a class="btn-facaparte" href="#">Faça parte agora!</a>
+				<span class="premium-line-footer premium-line-footer2"></span>
 			</div>
 		</div>
 	</section>
 	<section class="form">
 		<div class="center">
-			<div class="premium-left">
-				
-			</div>
-			<div class="premium-right">
-				
-			</div>
+			<h2 class="h2-titleform">Falta pouco para você fazer parte da maior<br>
+			plataforma de negócios realizados do setor!</h2>
+			<p class="p-titleform">Preencha todos os campos abaixo e<br>
+			<span>ganhe 30 dias grátis*</span> em nossa plataforma.</p>
+
+            <div class="divform">
+                <form action="" method="post">
+                    <div class="group-input">
+                        <div class="item-input">
+                            <input class="requerido" id="name" name="name" type="text" data-requerido="Insira seu Nome" autocomplete="off" placeholder="Nome Completo">
+                        </div>
+                        <div class="item-input item-input-right">
+                            <input class="telefone numero requerido" id="fone" name="fone" type="fone" maxlength="15" data-requerido="Insira o Telefone" autocomplete="off" placeholder="Celular">
+                        </div>
+                        <div class="item-input item-input-full">
+                            <input class="email requerido" id="email" name="email" type="email" data-requerido="Insira seu E-mail" autocomplete="off" placeholder="E-mail">
+                        </div>
+						<div class="item-input">
+							<select id="state" name="lead_uf">
+								<option value=""></option>
+							</select>
+						</div>
+						<div class="item-input item-input-right">
+							<select id="city" name="lead_city">
+								<option value=""></option>
+							</select>
+						</div>
+                        <div class="item-input item-input-full item-input-center">
+                            <input class="requerido" id="plataforma" name="plataforma" data-requerido="" autocomplete="off" placeholder="Onde conheceu nossa plataforma?">
+                        </div>
+                        <div class="item-input item-btn">
+                            <a class="enviarButton" id="enviarForm">Teste por 30 dias grátis!</a>
+                        </div>
+                    </div>
+
+                    <p class="mensagem"></p>
+                </form>
+            </div>
 		</div>
 	</section>
+	<script src="js/script.js"></script>
 </body>
 </html>
